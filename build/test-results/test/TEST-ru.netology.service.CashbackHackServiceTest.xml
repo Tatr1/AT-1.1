@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="5" skipped="0" failures="1" errors="0" timestamp="2021-10-26T21:53:39" hostname="DESKTOP-HNOC113" time="0.015">
+<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="5" skipped="0" failures="1" errors="0" timestamp="2021-11-06T20:24:42" hostname="DESKTOP-HNOC113" time="0.015">
   <properties/>
-  <testcase name="souldBeAmount999" classname="ru.netology.service.CashbackHackServiceTest" time="0.006"/>
-  <testcase name="souldBeAmount0" classname="ru.netology.service.CashbackHackServiceTest" time="0.001"/>
+  <testcase name="souldBeAmount999" classname="ru.netology.service.CashbackHackServiceTest" time="0.005"/>
+  <testcase name="souldBeAmount0" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
   <testcase name="souldBeAmount1" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
-  <testcase name="souldBeAmount1000" classname="ru.netology.service.CashbackHackServiceTest" time="0.005">
+  <testcase name="souldBeAmount1000" classname="ru.netology.service.CashbackHackServiceTest" time="0.006">
     <failure message="java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;0&gt; but was:&lt;1000&gt;
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.failNotEquals(Assert.java:835)
@@ -63,7 +63,7 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="souldBeAmount1010" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
+  <testcase name="souldBeAmount1010" classname="ru.netology.service.CashbackHackServiceTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

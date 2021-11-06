@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="5" skipped="0" failures="1" errors="0" timestamp="2021-10-26T21:31:13" hostname="DESKTOP-HNOC113" time="0.027">
+<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="5" skipped="0" failures="1" errors="0" timestamp="2021-11-06T20:08:48" hostname="DESKTOP-HNOC113" time="0.062">
   <properties/>
-  <testcase name="souldBeAmount0" classname="ru.netology.service.CashbackHackServiceTest" time="0.01"/>
+  <testcase name="souldBeAmount0" classname="ru.netology.service.CashbackHackServiceTest" time="0.013"/>
   <testcase name="souldBeAmount1" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
-  <testcase name="souldBeAmount1000" classname="ru.netology.service.CashbackHackServiceTest" time="0.001">
+  <testcase name="souldBeAmount1000" classname="ru.netology.service.CashbackHackServiceTest" time="0.002">
     <failure message="java.lang.AssertionError: expected [0] but found [1000]" type="java.lang.AssertionError">java.lang.AssertionError: expected [0] but found [1000]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
